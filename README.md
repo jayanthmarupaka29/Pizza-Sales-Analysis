@@ -90,7 +90,7 @@ Two main dashboard pages:
 
 ## 🤝 Contributing
 Feel free to fork this project and submit pull requests with improvements. You can also open issues if you find any bugs or have suggestions for additional features.
-##📫 Contact
+## 📫 Contact
 M Jayanth - @jayanthmarupaka29
 Project Link: https://github.com/jayanthmarupaka29/Pizza-Sales-Analysis
 
