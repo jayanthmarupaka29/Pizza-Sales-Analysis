@@ -1,53 +1,54 @@
-# Pizza-Sales-Project-SQL-PowerBI
-# Pizza Sales Project
+# Pizza Sales Analysis Project
 
 ## Overview
+A comprehensive data analysis project examining pizza sales data using SQL and Power BI. The project provides detailed insights into sales patterns, customer preferences, and business performance metrics.
 
-The Pizza Sales Project is a data analysis and visualization project aimed at analyzing and visualizing sales data from a fictional pizza restaurant chain. This project utilizes SQL for data extraction and transformation and Power BI for data visualization. The goal of this project is to provide insights and actionable information to help the pizza restaurant chain optimize its operations, improve sales, and enhance customer satisfaction.
+## Key Performance Indicators (KPI's)
 
-## Project Components
+- **Total Revenue**: Sum of all pizza sales
+- **Average Order Value**: Revenue per order
+- **Total Pizzas Sold**: Sum of quantities sold
+- **Total Orders**: Count of unique orders
+- **Average Pizzas Per Order**: Average number of pizzas per order
 
-### 1. Data Acquisition
+## Sales Analysis Features
 
-The project begins with the acquisition of raw sales data. This data may include information such as customer orders, product details, order dates, and transaction amounts. Data can be obtained from various sources, including databases, CSV files, or other data storage systems.
+### Time-Based Analysis
+- Daily trend for total orders
+- Monthly trend for orders
+- Peak hours analysis
 
-### 2. Data Transformation with SQL
+### Revenue Analysis
+- Revenue by pizza category
+- Sales performance by pizza size
+- Top 5 pizzas by revenue
+- Bottom 5 pizzas by revenue
 
-SQL (Structured Query Language) is used to clean, filter, and transform the raw data into a format suitable for analysis. This may involve tasks such as joining tables, aggregating data, handling missing values, and creating new calculated fields.
+### Order Analysis
+- Top 5 pizzas by order volume
+- Bottom 5 pizzas by order volume
+- Orders by pizza category
+- Pizza sales distribution by size
 
-### 3. Data Analysis
+## Visualizations
 
-Once the data is prepared, various SQL queries are written to perform in-depth data analysis. This may include:
+### Dashboard 1 - Sales Overview
+![Pizza Sales Dashboard](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard.png)
+- Revenue metrics
+- Daily and monthly trends
+- Peak hours analysis
+- Sales by category
 
-- Identifying top-selling pizza flavors.
-- Analyzing sales trends over time.
-- Evaluating customer demographics and preferences.
-- Calculating average order values.
-- Assessing the performance of individual restaurant locations.
+### Dashboard 2 - Product Performance
+![Pizza Performance Dashboard](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard2.png)
+- Best and worst performers
+- Category-wise analysis
+- Size-wise distribution
+- Order patterns
 
-### 4. Power BI Visualization
+## Technology Stack
+- **SQL**: Data extraction and analysis
+- **Power BI**: Data visualization and dashboards
+- **Excel**: Data storage (CSV format)
 
-Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
-
-- Bar charts and pie charts displaying sales by product category.
-- Time series charts illustrating sales trends.
-- Geographic maps showing the distribution of restaurant locations.
-- Dashboards summarizing key performance indicators (KPIs).
-
-### Power BI Visualization
-
-![Dashboard 1](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard.png)
-
-
-![Dashboard 2](https://github.com/harsh-j-sharma/Pizza-Sales-Project-SQL-PowerBI/blob/main/PizzaSalesDashboard2.png)
-
-### 5. Insights and Recommendations
-
-Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
-
-## Dependencies
-
-- SQL database or data source
-- Power BI Desktop
-
-
+## Project Structure
