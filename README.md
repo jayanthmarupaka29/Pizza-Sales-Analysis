@@ -12,6 +12,9 @@ A comprehensive data analysis project examining pizza sales data from January 20
 
 ## 📈 Sales Analysis Highlights
 
+![PizzaSalesDashboard](https://github.com/user-attachments/assets/7c3dfd3a-fe43-4b82-8834-a1b5a94a128e)
+![PizzaSalesDashboard2](https://github.com/user-attachments/assets/61ab979e-3ce3-4ce3-a121-c4ca9cb96713)
+
 ### Time-Based Trends
 - **Daily Trends**: Orders peak during weekends (Friday/Saturday evenings)
 - **Monthly Trends**: Highest orders in July and January
@@ -71,14 +74,6 @@ Two main dashboard pages:
 - **Visualization**: Power BI Desktop
 - **Data Format**: Structured pizza sales data
 
-## 📁 Repository Structure
-```
-├── SQL/
-│   └── pizza_sales_analysis.sql
-├── PowerBI/
-│   └── pizza_sales_dashboard.pbix
-└── README.md
-```
 
 ## 🚀 Getting Started
 1. Clone the repository
@@ -95,9 +90,10 @@ Two main dashboard pages:
 
 ## 🤝 Contributing
 Feel free to fork this project and submit pull requests with improvements. You can also open issues if you find any bugs or have suggestions for additional features.
+##📫 Contact
+M Jayanth - @jayanthmarupaka29
+Project Link: https://github.com/jayanthmarupaka29/Pizza-Sales-Analysis
 
-## 📫 Contact
-Create an issue in the repository for any questions or concerns.
 
 ## 📜 License
 This project is open source and available under the [MIT License](LICENSE).
